@@ -1,0 +1,731 @@
+0      nonrev_ALU                   1382   10491.3909 
+1      m1                           320    1344.2544  
+1      m3                           496    6112.7244  
+1      m4                           162    864.3798   
+1      m2                           303    1269.3213  
+2      m3/add_158_39_I9             16     295.9479   
+2      m2/a15                       19     81.7452    
+2      m2/a14                       19     81.7452    
+2      m3/add_158_39_I12            16     295.9479   
+2      m2/a1                        8      34.0605    
+2      m3/add_158_39_I3             16     295.9479   
+2      m3/add_158_39_I6             16     295.9479   
+2      m3/add_158_39_I14            16     295.9479   
+2      m1/eleven                    20     84.0159    
+2      m2/a11                       19     81.7452    
+2      m3/add_158_39_I16            16     295.9479   
+2      m4/srl_182_16                63     348.174    
+2      m1/one                       20     84.0159    
+2      m1/fourteen                  20     84.0159    
+2      m3/add_158_39_I10            16     295.9479   
+2      m1/four                      20     84.0159    
+2      m3/add_158_39_I13            16     295.9479   
+2      m1/fifteen                   20     84.0159    
+2      m3/add_158_39_I4             16     295.9479   
+2      m1/five                      20     84.0159    
+2      m1/three                     20     84.0159    
+2      m1/ten                       20     84.0159    
+2      m3/add_158_39_I15            16     295.9479   
+2      m2/a9                        19     81.7452    
+2      m1/sixteen                   20     84.0159    
+2      m2/a6                        19     81.7452    
+2      m1/seven                     20     84.0159    
+2      m1/eight                     20     84.0159    
+2      m1/six                       20     84.0159    
+2      m2/a4                        19     81.7452    
+2      m2/a5                        19     81.7452    
+2      m3/add_158_39_I8             16     295.9479   
+2      m2/a13                       19     81.7452    
+2      m2/a3                        19     81.7452    
+2      m1/nine                      20     84.0159    
+2      m3/add_158_39_I11            16     295.9479   
+2      m3/add_158_39_I2             16     295.9479   
+2      m2/a2                        19     81.7452    
+2      m1/twelve                    20     84.0159    
+2      m2/a12                       19     81.7452    
+2      m1/two                       20     84.0159    
+2      m2/a10                       19     81.7452    
+2      m3/add_158_39_I5             16     295.9479   
+2      m2/a7                        19     81.7452    
+2      m1/thirteen                  20     84.0159    
+2      m4/sll_181_15                63     348.174    
+2      m2/a16                       13     54.4968    
+2      m2/a8                        19     81.7452    
+2      m3/add_158_39_I7             16     295.9479   
+3      m1/ten/six                   1      4.5414     
+3      m1/two/three                 1      4.5414     
+3      m2/a7/seven                  1      4.5414     
+3      m1/three/two                 1      4.5414     
+3      m1/fourteen/four             1      4.5414     
+3      m2/a11/three                 1      4.5414     
+3      m2/a5/one                    13     54.4968    
+3      m2/a3/five                   1      4.5414     
+3      m1/one/one                   14     56.7675    
+3      m1/thirteen/seven            1      4.5414     
+3      m1/five/two                  1      4.5414     
+3      m1/nine/five                 1      4.5414     
+3      m2/a15/one                   13     54.4968    
+3      m2/a6/six                    1      4.5414     
+3      m1/seven/six                 1      4.5414     
+3      m2/a3/one                    13     54.4968    
+3      m2/a13/one                   13     54.4968    
+3      m2/a8/seven                  1      4.5414     
+3      m2/a2/five                   1      4.5414     
+3      m1/twelve/five               1      4.5414     
+3      m1/eight/six                 1      4.5414     
+3      m1/sixteen/six               1      4.5414     
+3      m1/six/six                   1      4.5414     
+3      m2/a12/five                  1      4.5414     
+3      m1/fifteen/two               1      4.5414     
+3      m1/thirteen/two              1      4.5414     
+3      m1/four/four                 1      4.5414     
+3      m1/two/five                  1      4.5414     
+3      m2/a4/six                    1      4.5414     
+3      m2/a10/five                  1      4.5414     
+3      m1/fifteen/four              1      4.5414     
+3      m1/sixteen/two               1      4.5414     
+3      m2/a8/two                    1      4.5414     
+3      m1/three/four                1      4.5414     
+3      m2/a15/seven                 1      4.5414     
+3      m2/a2/one                    13     54.4968    
+3      m1/fourteen/three            1      4.5414     
+3      m1/two/one                   14     56.7675    
+3      m2/a7/five                   1      4.5414     
+3      m2/a5/two                    1      4.5414     
+3      m2/a3/six                    1      4.5414     
+3      m1/one/two                   1      4.5414     
+3      m2/a14/seven                 1      4.5414     
+3      m2/a10/one                   13     54.4968    
+3      m1/nine/six                  1      4.5414     
+3      m2/a9/five                   1      4.5414     
+3      m1/sixteen/four              1      4.5414     
+3      m1/seven/two                 1      4.5414     
+3      m2/a11/one                   13     54.4968    
+3      m1/thirteen/five             1      4.5414     
+3      m2/a3/two                    1      4.5414     
+3      m2/a13/two                   1      4.5414     
+3      m2/a2/six                    1      4.5414     
+3      m1/twelve/six                1      4.5414     
+3      m2/a6/four                   1      4.5414     
+3      m2/a16/four                  1      4.5414     
+3      m2/a4/two                    1      4.5414     
+3      m1/seven/four                1      4.5414     
+3      m2/a12/six                   1      4.5414     
+3      m2/a8/five                   1      4.5414     
+3      m1/two/six                   1      4.5414     
+3      m1/eight/four                1      4.5414     
+3      m1/six/four                  1      4.5414     
+3      m2/a10/six                   1      4.5414     
+3      m1/fifteen/three             1      4.5414     
+3      m2/a4/four                   1      4.5414     
+3      m1/eleven/seven              1      4.5414     
+3      m2/a12/two                   1      4.5414     
+3      m1/three/three               1      4.5414     
+3      m2/a16/three                 1      4.5414     
+3      m2/a6/one                    13     54.4968    
+3      m2/a11/seven                 1      4.5414     
+3      m2/a5/five                   1      4.5414     
+3      m2/a2/two                    1      4.5414     
+3      m1/eleven/three              1      4.5414     
+3      m2/a15/five                  1      4.5414     
+3      m1/one/four                  1      4.5414     
+3      m1/two/two                   1      4.5414     
+3      m2/a7/six                    1      4.5414     
+3      m1/fourteen/one              14     56.7675    
+3      m2/a9/six                    1      4.5414     
+3      m2/a13/five                  1      4.5414     
+3      m2/a1/seven                  1      4.5414     
+3      m2/a11/two                   1      4.5414     
+3      m2/a3/four                   1      4.5414     
+3      m2/a14/five                  1      4.5414     
+3      m1/thirteen/six              1      4.5414     
+3      m1/nine/four                 1      4.5414     
+3      m2/a1/five                   1      4.5414     
+3      m2/a9/two                    1      4.5414     
+3      m2/a6/three                  1      4.5414     
+3      m1/seven/three               1      4.5414     
+3      m1/one/seven                 1      4.5414     
+3      m2/a8/six                    1      4.5414     
+3      m2/a2/four                   1      4.5414     
+3      m1/twelve/four               1      4.5414     
+3      m1/eight/three               1      4.5414     
+3      m1/sixteen/three             1      4.5414     
+3      m1/six/three                 1      4.5414     
+3      m2/a12/four                  1      4.5414     
+3      m2/a1/one                    5      20.4363    
+3      m2/a4/three                  1      4.5414     
+3      m1/fourteen/seven            1      4.5414     
+3      m2/a10/four                  1      4.5414     
+3      m1/fifteen/one               14     56.7675    
+3      m2/a14/one                   13     54.4968    
+3      m1/eleven/five               1      4.5414     
+3      m2/a6/two                    1      4.5414     
+3      m2/a5/six                    1      4.5414     
+3      m1/three/one                 14     56.7675    
+3      m2/a15/six                   1      4.5414     
+3      m2/a11/five                  1      4.5414     
+3      m1/ten/two                   1      4.5414     
+3      m1/five/four                 1      4.5414     
+3      m1/eleven/one                14     56.7675    
+3      m2/a13/six                   1      4.5414     
+3      m2/a7/four                   1      4.5414     
+3      m2/a15/two                   1      4.5414     
+3      m2/a14/six                   1      4.5414     
+3      m1/four/seven                1      4.5414     
+3      m1/nine/three                1      4.5414     
+3      m2/a9/four                   1      4.5414     
+3      m2/a7/two                    1      4.5414     
+3      m1/ten/four                  1      4.5414     
+3      m1/sixteen/one               14     56.7675    
+3      m1/thirteen/four             1      4.5414     
+3      m1/fifteen/seven             1      4.5414     
+3      m2/a2/three                  1      4.5414     
+3      m1/twelve/three              1      4.5414     
+3      m1/four/three                1      4.5414     
+3      m1/five/seven                1      4.5414     
+3      m2/a16/one                   10     40.8726    
+3      m1/seven/one                 14     56.7675    
+3      m2/a12/three                 1      4.5414     
+3      m1/three/seven               1      4.5414     
+3      m1/one/five                  1      4.5414     
+3      m2/a8/four                   1      4.5414     
+3      m1/eight/one                 14     56.7675    
+3      m1/six/one                   14     56.7675    
+3      m2/a10/three                 1      4.5414     
+3      m2/a14/two                   1      4.5414     
+3      m1/ten/seven                 1      4.5414     
+3      m2/a4/one                    13     54.4968    
+3      m2/a9/seven                  1      4.5414     
+3      m1/eleven/six                1      4.5414     
+3      m1/fourteen/five             1      4.5414     
+3      m2/a16/two                   1      4.5414     
+3      m2/a11/six                   1      4.5414     
+3      m2/a5/four                   1      4.5414     
+3      m1/five/three                1      4.5414     
+3      m1/eleven/two                1      4.5414     
+3      m2/a15/four                  1      4.5414     
+3      m2/a7/three                  1      4.5414     
+3      m2/a6/seven                  1      4.5414     
+3      m1/seven/seven               1      4.5414     
+3      m2/a9/three                  1      4.5414     
+3      m2/a13/four                  1      4.5414     
+3      m1/ten/three                 1      4.5414     
+3      m1/eight/seven               1      4.5414     
+3      m1/sixteen/seven             1      4.5414     
+3      m1/six/seven                 1      4.5414     
+3      m2/a14/four                  1      4.5414     
+3      m1/thirteen/three            1      4.5414     
+3      m1/four/five                 1      4.5414     
+3      m1/nine/one                  14     56.7675    
+3      m2/a4/seven                  1      4.5414     
+3      m2/a1/four                   1      4.5414     
+3      m1/fifteen/five              1      4.5414     
+3      m2/a5/seven                  1      4.5414     
+3      m1/one/six                   1      4.5414     
+3      m2/a8/three                  1      4.5414     
+3      m1/twelve/one                14     56.7675    
+3      m1/eight/two                 1      4.5414     
+3      m1/six/two                   1      4.5414     
+3      m1/four/one                  14     56.7675    
+3      m2/a12/one                   13     54.4968    
+3      m1/five/five                 1      4.5414     
+3      m1/three/five                1      4.5414     
+3      m2/a10/two                   1      4.5414     
+3      m2/a13/seven                 1      4.5414     
+3      m1/fourteen/six              1      4.5414     
+3      m1/ten/five                  1      4.5414     
+3      m1/two/four                  1      4.5414     
+3      m1/eleven/four               1      4.5414     
+3      m2/a5/three                  1      4.5414     
+3      m2/a3/seven                  1      4.5414     
+3      m1/one/three                 1      4.5414     
+3      m1/nine/seven                1      4.5414     
+3      m2/a15/three                 1      4.5414     
+3      m1/sixteen/five              1      4.5414     
+3      m2/a11/four                  1      4.5414     
+3      m1/five/one                  14     56.7675    
+3      m2/a3/three                  1      4.5414     
+3      m2/a13/three                 1      4.5414     
+3      m2/a2/seven                  1      4.5414     
+3      m1/twelve/seven              1      4.5414     
+3      m2/a7/one                    13     54.4968    
+3      m2/a6/five                   1      4.5414     
+3      m1/seven/five                1      4.5414     
+3      m2/a14/three                 1      4.5414     
+3      m2/a12/seven                 1      4.5414     
+3      m1/four/six                  1      4.5414     
+3      m1/nine/two                  1      4.5414     
+3      m2/a9/one                    13     54.4968    
+3      m1/two/seven                 1      4.5414     
+3      m1/ten/one                   14     56.7675    
+3      m1/eight/five                1      4.5414     
+3      m1/six/five                  1      4.5414     
+3      m2/a10/seven                 1      4.5414     
+3      m1/thirteen/one              14     56.7675    
+3      m1/fifteen/six               1      4.5414     
+3      m2/a4/five                   1      4.5414     
+3      m1/twelve/two                1      4.5414     
+3      m1/four/two                  1      4.5414     
+3      m1/five/six                  1      4.5414     
+3      m1/three/six                 1      4.5414     
+3      m1/fourteen/two              1      4.5414     
+3      m2/a8/one                    13     54.4968    
+4      m1/nine/one/seven            1      4.5414     
+4      m1/thirteen/one/four         1      4.5414     
+4      m2/a10/one/eight             1      4.5414     
+4      m2/a6/one/six                1      4.5414     
+4      m1/sixteen/one/ten           1      4.5414     
+4      m1/seven/one/six             1      4.5414     
+4      m1/twelve/one/nine           1      4.5414     
+4      m1/eight/one/six             1      4.5414     
+4      m1/eight/one/nine            1      4.5414     
+4      m2/a6/one/five               1      4.5414     
+4      m1/six/one/six               1      4.5414     
+4      m2/a9/one/nine               1      4.5414     
+4      m2/a8/one/five               1      4.5414     
+4      m2/a7/one/five               1      4.5414     
+4      m1/sixteen/one/one           6      22.707     
+4      m1/six/one/four              1      4.5414     
+4      m2/a4/one/six                1      4.5414     
+4      m2/a14/one/six               1      4.5414     
+4      m2/a10/one/nine              1      4.5414     
+4      m1/fifteen/one/one           6      22.707     
+4      m1/thirteen/one/one          6      22.707     
+4      m1/ten/one/five              1      4.5414     
+4      m2/a5/one/six                1      4.5414     
+4      m2/a15/one/six               1      4.5414     
+4      m1/one/one/ten               1      4.5414     
+4      m2/a6/one/one                5      20.4363    
+4      m2/a5/one/four               1      4.5414     
+4      m1/eight/one/one             6      22.707     
+4      m2/a15/one/five              1      4.5414     
+4      m1/one/one/four              1      4.5414     
+4      m1/nine/one/eight            1      4.5414     
+4      m2/a8/one/one                5      20.4363    
+4      m2/a7/one/one                5      20.4363    
+4      m1/five/one/seven            1      4.5414     
+4      m1/seven/one/four            1      4.5414     
+4      m2/a13/one/six               1      4.5414     
+4      m1/fourteen/one/ten          1      4.5414     
+4      m1/ten/one/one               6      22.707     
+4      m1/four/one/seven            1      4.5414     
+4      m1/twelve/one/seven          1      4.5414     
+4      m2/a3/one/four               1      4.5414     
+4      m1/nine/one/ten              1      4.5414     
+4      m1/twelve/one/eight          1      4.5414     
+4      m1/four/one/eight            1      4.5414     
+4      m2/a15/one/one               5      20.4363    
+4      m1/fifteen/one/seven         1      4.5414     
+4      m1/thirteen/one/seven        1      4.5414     
+4      m2/a4/one/five               1      4.5414     
+4      m1/twelve/one/ten            1      4.5414     
+4      m2/a14/one/five              1      4.5414     
+4      m1/nine/one/four             1      4.5414     
+4      m1/seven/one/one             6      22.707     
+4      m2/a2/one/six                1      4.5414     
+4      m1/four/one/nine             1      4.5414     
+4      m2/a12/one/six               1      4.5414     
+4      m2/a12/one/five              1      4.5414     
+4      m1/four/one/ten              1      4.5414     
+4      m2/a4/one/one                5      20.4363    
+4      m2/a2/one/four               1      4.5414     
+4      m1/nine/one/one              6      22.707     
+4      m2/a13/one/five              1      4.5414     
+4      m2/a10/one/six               1      4.5414     
+4      m2/a7/one/seven              1      4.5414     
+4      m1/five/one/eight            1      4.5414     
+4      m1/fourteen/one/four         1      4.5414     
+4      m1/six/one/seven             1      4.5414     
+4      m2/a16/one/seven             1      4.5414     
+4      m2/a14/one/one               5      20.4363    
+4      m1/two/one/four              1      4.5414     
+4      m1/eleven/one/seven          1      4.5414     
+4      m1/ten/one/seven             1      4.5414     
+4      m1/eleven/one/eight          1      4.5414     
+4      m1/five/one/ten              1      4.5414     
+4      m1/sixteen/one/eight         1      4.5414     
+4      m2/a12/one/one               5      20.4363    
+4      m1/three/one/ten             1      4.5414     
+4      m2/a2/one/one                5      20.4363    
+4      m1/three/one/four            1      4.5414     
+4      m1/fifteen/one/eight         1      4.5414     
+4      m2/a5/one/seven              1      4.5414     
+4      m2/a11/one/four              1      4.5414     
+4      m1/thirteen/one/eight        1      4.5414     
+4      m1/five/one/nine             1      4.5414     
+4      m1/ten/one/ten               1      4.5414     
+4      m2/a9/one/ten                1      4.5414     
+4      m2/a9/one/four               1      4.5414     
+4      m1/sixteen/one/seven         1      4.5414     
+4      m1/eleven/one/nine           1      4.5414     
+4      m2/a16/one/four              1      4.5414     
+4      m2/a13/one/nine              1      4.5414     
+4      m2/a8/one/eight              1      4.5414     
+4      m1/eight/one/five            1      4.5414     
+4      m1/thirteen/one/six          1      4.5414     
+4      m1/thirteen/one/nine         1      4.5414     
+4      m1/sixteen/one/four          1      4.5414     
+4      m1/six/one/eight             1      4.5414     
+4      m2/a10/one/five              1      4.5414     
+4      m1/fifteen/one/four          1      4.5414     
+4      m2/a6/one/ten                1      4.5414     
+4      m1/seven/one/ten             1      4.5414     
+4      m1/twelve/one/one            6      22.707     
+4      m1/one/one/seven             1      4.5414     
+4      m2/a8/one/six                1      4.5414     
+4      m1/eight/one/ten             1      4.5414     
+4      m2/a6/one/four               1      4.5414     
+4      m1/six/one/ten               1      4.5414     
+4      m2/a5/one/eight              1      4.5414     
+4      m1/one/one/eight             1      4.5414     
+4      m2/a9/one/one                5      20.4363    
+4      m2/a2/one/seven              1      4.5414     
+4      m2/a8/one/four               1      4.5414     
+4      m2/a7/one/four               1      4.5414     
+4      m1/six/one/nine              1      4.5414     
+4      m2/a4/one/ten                1      4.5414     
+4      m1/seven/one/eight           1      4.5414     
+4      m2/a10/one/one               5      20.4363    
+4      m2/a3/one/seven              1      4.5414     
+4      m1/fourteen/one/seven        1      4.5414     
+4      m1/two/one/seven             1      4.5414     
+4      m1/ten/one/four              1      4.5414     
+4      m2/a5/one/ten                1      4.5414     
+4      m2/a13/one/seven             1      4.5414     
+4      m2/a3/one/eight              1      4.5414     
+4      m2/a13/one/eight             1      4.5414     
+4      m2/a15/one/four              1      4.5414     
+4      m2/a4/one/eight              1      4.5414     
+4      m1/one/one/nine              1      4.5414     
+4      m2/a11/one/seven             1      4.5414     
+4      m1/nine/one/five             1      4.5414     
+4      m1/seven/one/nine            1      4.5414     
+4      m2/a13/one/ten               1      4.5414     
+4      m2/a16/one/one               5      20.4363    
+4      m2/a12/one/eight             1      4.5414     
+4      m2/a3/one/nine               1      4.5414     
+4      m1/four/one/five             1      4.5414     
+4      m2/a3/one/ten                1      4.5414     
+4      m1/fifteen/one/six           1      4.5414     
+4      m2/a5/one/one                5      20.4363    
+4      m2/a4/one/four               1      4.5414     
+4      m2/a2/one/eight              1      4.5414     
+4      m1/fourteen/one/eight        1      4.5414     
+4      m2/a14/one/four              1      4.5414     
+4      m1/nine/one/nine             1      4.5414     
+4      m2/a10/one/seven             1      4.5414     
+4      m2/a2/one/ten                1      4.5414     
+4      m1/two/one/eight             1      4.5414     
+4      m2/a12/one/ten               1      4.5414     
+4      m2/a12/one/four              1      4.5414     
+4      m1/three/one/seven           1      4.5414     
+4      m1/two/one/ten               1      4.5414     
+4      m1/three/one/eight           1      4.5414     
+4      m2/a11/one/eight             1      4.5414     
+4      m2/a2/one/nine               1      4.5414     
+4      m2/a13/one/four              1      4.5414     
+4      m2/a10/one/ten               1      4.5414     
+4      m2/a8/one/seven              1      4.5414     
+4      m1/five/one/five             1      4.5414     
+4      m1/fourteen/one/nine         1      4.5414     
+4      m2/a9/one/seven              1      4.5414     
+4      m1/two/one/nine              1      4.5414     
+4      m1/eleven/one/six            1      4.5414     
+4      m2/a9/one/eight              1      4.5414     
+4      m1/eleven/one/five           1      4.5414     
+4      m1/sixteen/one/five          1      4.5414     
+4      m1/three/one/nine            1      4.5414     
+4      m1/fifteen/one/five          1      4.5414     
+4      m2/a11/one/nine              1      4.5414     
+4      m1/thirteen/one/five         1      4.5414     
+4      m2/a7/one/ten                1      4.5414     
+4      m2/a6/one/seven              1      4.5414     
+4      m1/sixteen/one/six           1      4.5414     
+4      m1/eleven/one/one            6      22.707     
+4      m2/a13/one/one               5      20.4363    
+4      m1/twelve/one/four           1      4.5414     
+4      m1/eight/one/four            1      4.5414     
+4      m2/a6/one/eight              1      4.5414     
+4      m1/thirteen/one/ten          1      4.5414     
+4      m2/a7/one/eight              1      4.5414     
+4      m1/sixteen/one/nine          1      4.5414     
+4      m1/six/one/five              1      4.5414     
+4      m2/a4/one/seven              1      4.5414     
+4      m2/a14/one/seven             1      4.5414     
+4      m2/a10/one/four              1      4.5414     
+4      m1/fifteen/one/nine          1      4.5414     
+4      m1/ten/one/eight             1      4.5414     
+4      m2/a15/one/seven             1      4.5414     
+4      m1/one/one/six               1      4.5414     
+4      m2/a8/one/ten                1      4.5414     
+4      m2/a6/one/nine               1      4.5414     
+4      m2/a5/one/five               1      4.5414     
+4      m2/a15/one/eight             1      4.5414     
+4      m1/one/one/five              1      4.5414     
+4      m2/a8/one/nine               1      4.5414     
+4      m2/a7/one/nine               1      4.5414     
+4      m1/six/one/one               6      22.707     
+4      m1/seven/one/five            1      4.5414     
+4      m2/a3/one/six                1      4.5414     
+4      m1/fourteen/one/six          1      4.5414     
+4      m1/two/one/six               1      4.5414     
+4      m1/ten/one/nine              1      4.5414     
+4      m2/a3/one/five               1      4.5414     
+4      m1/nine/one/six              1      4.5414     
+4      m2/a15/one/nine              1      4.5414     
+4      m1/one/one/one               6      22.707     
+4      m2/a11/one/six               1      4.5414     
+4      m2/a1/one/one                5      20.4363    
+4      m2/a15/one/ten               1      4.5414     
+4      m1/twelve/one/six            1      4.5414     
+4      m2/a5/one/nine               1      4.5414     
+4      m2/a14/one/eight             1      4.5414     
+4      m2/a3/one/one                5      20.4363    
+4      m1/four/one/four             1      4.5414     
+4      m1/eight/one/seven           1      4.5414     
+4      m2/a14/one/ten               1      4.5414     
+4      m2/a12/one/seven             1      4.5414     
+4      m1/four/one/six              1      4.5414     
+4      m1/fifteen/one/ten           1      4.5414     
+4      m2/a4/one/nine               1      4.5414     
+4      m2/a2/one/five               1      4.5414     
+4      m1/fourteen/one/five         1      4.5414     
+4      m2/a14/one/nine              1      4.5414     
+4      m1/two/one/five              1      4.5414     
+4      m1/five/one/six              1      4.5414     
+4      m2/a12/one/nine              1      4.5414     
+4      m1/three/one/six             1      4.5414     
+4      m1/three/one/five            1      4.5414     
+4      m1/four/one/one              6      22.707     
+4      m2/a7/one/six                1      4.5414     
+4      m2/a11/one/five              1      4.5414     
+4      m1/twelve/one/five           1      4.5414     
+4      m1/five/one/four             1      4.5414     
+4      m1/fourteen/one/one          6      22.707     
+4      m1/ten/one/six               1      4.5414     
+4      m1/seven/one/seven           1      4.5414     
+4      m2/a9/one/six                1      4.5414     
+4      m1/two/one/one               6      22.707     
+4      m1/eleven/one/ten            1      4.5414     
+4      m2/a9/one/five               1      4.5414     
+4      m1/eleven/one/four           1      4.5414     
+4      m2/a16/one/five              1      4.5414     
+4      m2/a16/one/ten               1      4.5414     
+4      m1/three/one/one             6      22.707     
+4      m1/eight/one/eight           1      4.5414     
+4      m1/five/one/one              6      22.707     
+4      m2/a11/one/ten               1      4.5414     
+4      m2/a11/one/one               5      20.4363    
+5      m2/a14/one/one/three         1      4.5414     
+5      m1/two/one/one/four          1      4.5414     
+5      m2/a3/one/one/five           1      4.5414     
+5      m2/a4/one/one/three          1      4.5414     
+5      m2/a15/one/one/six           1      4.5414     
+5      m2/a13/one/one/five          1      4.5414     
+5      m1/fourteen/one/one/four     1      4.5414     
+5      m1/one/one/one/three         1      4.5414     
+5      m1/five/one/one/six          1      4.5414     
+5      m2/a11/one/one/five          1      4.5414     
+5      m2/a3/one/one/three          1      4.5414     
+5      m1/two/one/one/three         1      4.5414     
+5      m1/four/one/one/four         1      4.5414     
+5      m2/a13/one/one/three         1      4.5414     
+5      m1/twelve/one/one/four       1      4.5414     
+5      m2/a11/one/one/three         1      4.5414     
+5      m1/thirteen/one/one/four     1      4.5414     
+5      m2/a10/one/one/four          1      4.5414     
+5      m1/fifteen/one/one/six       1      4.5414     
+5      m2/a8/one/one/four           1      4.5414     
+5      m1/eight/one/one/six         1      4.5414     
+5      m2/a12/one/one/six           1      4.5414     
+5      m2/a1/one/one/five           1      4.5414     
+5      m2/a7/one/one/four           1      4.5414     
+5      m1/ten/one/one/six           1      4.5414     
+5      m1/six/one/one/four          1      4.5414     
+5      m2/a16/one/one/four          1      4.5414     
+5      m2/a9/one/one/five           1      4.5414     
+5      m1/eleven/one/one/four       1      4.5414     
+5      m1/three/one/one/three       1      4.5414     
+5      m2/a5/one/one/four           1      4.5414     
+5      m2/a8/one/one/three          1      4.5414     
+5      m2/a1/one/one/six            1      4.5414     
+5      m2/a6/one/one/four           1      4.5414     
+5      m1/seven/one/one/six         1      4.5414     
+5      m2/a9/one/one/three          1      4.5414     
+5      m1/sixteen/one/one/four      1      4.5414     
+5      m2/a14/one/one/four          1      4.5414     
+5      m1/nine/one/one/six          1      4.5414     
+5      m1/fourteen/one/one/five     1      4.5414     
+5      m1/one/one/one/six           1      4.5414     
+5      m2/a2/one/one/six            1      4.5414     
+5      m1/three/one/one/five        1      4.5414     
+5      m1/five/one/one/five         1      4.5414     
+5      m1/two/one/one/six           1      4.5414     
+5      m2/a3/one/one/four           1      4.5414     
+5      m2/a15/one/one/three         1      4.5414     
+5      m2/a13/one/one/four          1      4.5414     
+5      m1/fourteen/one/one/six      1      4.5414     
+5      m2/a11/one/one/four          1      4.5414     
+5      m1/fifteen/one/one/five      1      4.5414     
+5      m2/a12/one/one/four          1      4.5414     
+5      m1/four/one/one/six          1      4.5414     
+5      m1/twelve/one/one/six        1      4.5414     
+5      m1/eight/one/one/five        1      4.5414     
+5      m1/six/one/one/five          1      4.5414     
+5      m1/thirteen/one/one/six      1      4.5414     
+5      m1/eleven/one/one/five       1      4.5414     
+5      m2/a10/one/one/six           1      4.5414     
+5      m1/fifteen/one/one/three     1      4.5414     
+5      m1/ten/one/one/five          1      4.5414     
+5      m1/eight/one/one/three       1      4.5414     
+5      m2/a12/one/one/three         1      4.5414     
+5      m1/three/one/one/four        1      4.5414     
+5      m2/a1/one/one/four           1      4.5414     
+5      m2/a7/one/one/six            1      4.5414     
+5      m1/six/one/one/six           1      4.5414     
+5      m2/a16/one/one/six           1      4.5414     
+5      m1/seven/one/one/five        1      4.5414     
+5      m2/a9/one/one/four           1      4.5414     
+5      m1/eleven/one/one/six        1      4.5414     
+5      m2/a5/one/one/six            1      4.5414     
+5      m2/a4/one/one/five           1      4.5414     
+5      m1/nine/one/one/five         1      4.5414     
+5      m2/a1/one/one/three          1      4.5414     
+5      m2/a6/one/one/six            1      4.5414     
+5      m1/seven/one/one/three       1      4.5414     
+5      m1/one/one/one/five          1      4.5414     
+5      m1/sixteen/one/one/six       1      4.5414     
+5      m2/a12/one/one/five          1      4.5414     
+5      m2/a2/one/one/five           1      4.5414     
+5      m2/a14/one/one/six           1      4.5414     
+5      m1/nine/one/one/three        1      4.5414     
+5      m1/two/one/one/five          1      4.5414     
+5      m2/a4/one/one/six            1      4.5414     
+5      m2/a15/one/one/four          1      4.5414     
+5      m2/a2/one/one/three          1      4.5414     
+5      m1/five/one/one/four         1      4.5414     
+5      m2/a3/one/one/six            1      4.5414     
+5      m1/four/one/one/five         1      4.5414     
+5      m2/a13/one/one/six           1      4.5414     
+5      m1/twelve/one/one/five       1      4.5414     
+5      m1/fourteen/one/one/three    1      4.5414     
+5      m2/a11/one/one/six           1      4.5414     
+5      m1/thirteen/one/one/five     1      4.5414     
+5      m1/five/one/one/three        1      4.5414     
+5      m2/a10/one/one/five          1      4.5414     
+5      m1/fifteen/one/one/four      1      4.5414     
+5      m1/four/one/one/three        1      4.5414     
+5      m1/twelve/one/one/three      1      4.5414     
+5      m2/a8/one/one/five           1      4.5414     
+5      m1/eight/one/one/four        1      4.5414     
+5      m1/thirteen/one/one/three    1      4.5414     
+5      m2/a10/one/one/three         1      4.5414     
+5      m2/a7/one/one/five           1      4.5414     
+5      m1/ten/one/one/four          1      4.5414     
+5      m2/a16/one/one/five          1      4.5414     
+5      m1/three/one/one/six         1      4.5414     
+5      m2/a5/one/one/five           1      4.5414     
+5      m2/a15/one/one/five          1      4.5414     
+5      m2/a8/one/one/six            1      4.5414     
+5      m2/a7/one/one/three          1      4.5414     
+5      m2/a6/one/one/five           1      4.5414     
+5      m1/six/one/one/three         1      4.5414     
+5      m2/a16/one/one/three         1      4.5414     
+5      m1/seven/one/one/four        1      4.5414     
+5      m2/a9/one/one/six            1      4.5414     
+5      m1/eleven/one/one/three      1      4.5414     
+5      m1/ten/one/one/three         1      4.5414     
+5      m1/sixteen/one/one/five      1      4.5414     
+5      m2/a5/one/one/three          1      4.5414     
+5      m2/a4/one/one/four           1      4.5414     
+5      m2/a14/one/one/five          1      4.5414     
+5      m1/nine/one/one/four         1      4.5414     
+5      m2/a6/one/one/three          1      4.5414     
+5      m1/one/one/one/four          1      4.5414     
+5      m1/sixteen/one/one/three     1      4.5414     
+5      m2/a2/one/one/four           1      4.5414   
+==================================================================================================
+
+*----------------------------------------------------------------------------------------
+*	Innovus 16.21-s078_1 (64bit) 01/20/2017 14:00 (Linux 2.6.18-194.el5)
+*	
+*
+* 	Date & Time:	2019-Nov-26 02:22:04 (2019-Nov-25 20:52:04 GMT)
+*
+*----------------------------------------------------------------------------------------
+*
+*	Design: nonrev_ALU
+*
+*	Liberty Libraries used:
+*	        Worst: lib/90/slow.lib
+*
+*	Power Domain used:
+*		Rail:        VDD 	Voltage:        0.9
+*
+*       Power View : Worst
+*
+*       User-Defined Activity : N.A.
+*
+*       Activity File: N.A.
+*
+*       Hierarchical Global Activity: N.A.
+*
+*       Global Activity: N.A.
+*
+*       Sequential Element Activity: N.A.
+*
+*       Primary Input Activity: 0.200000
+*
+*       Default icg ratio: N.A.
+*
+*       Global Comb ClockGate Ratio: N.A.
+*
+*	Power Units = 1mW
+*
+*	Time Units = 1e-09 secs
+*
+*       report_power
+*
+-----------------------------------------------------------------------------------------
+
+
+Total Power
+-----------------------------------------------------------------------------------------
+Total Internal Power:        0.68084766 	   64.8260%
+Total Switching Power:       0.31082845 	   29.5951%
+Total Leakage Power:         0.05859345 	    5.5789%
+Total Power:                 1.05026956
+-----------------------------------------------------------------------------------------
+
+
+Group                           Internal   Switching     Leakage       Total  Percentage 
+                                Power      Power         Power         Power  (%)        
+-----------------------------------------------------------------------------------------
+Sequential                             0           0           0           0           0
+Macro                                  0           0           0           0           0
+IO                                     0           0           0           0           0
+Combinational                     0.6808      0.3108     0.05859        1.05         100
+Clock (Combinational)                  0           0           0           0           0
+Clock (Sequential)                     0           0           0           0           0
+-----------------------------------------------------------------------------------------
+Total                             0.6808      0.3108     0.05859        1.05         100
+-----------------------------------------------------------------------------------------
+
+
+Rail                  Voltage   Internal   Switching     Leakage       Total  Percentage 
+                                Power      Power         Power         Power  (%)        
+-----------------------------------------------------------------------------------------
+VDD                       0.9     0.6808      0.3108     0.05859        1.05         100
+ 
+ 
+-----------------------------------------------------------------------------------------
+*	Power Distribution Summary: 
+* 		Highest Average Power:    m3/add_158_39_I10/g371 (ADDFX1): 	  0.003096
+* 		Highest Leakage Power:    m3/add_158_39_I16/g374 (ADDHXL): 	 8.696e-05
+* 		Total Cap: 	8.53562e-12 F
+* 		Total instances in design:  1382
+* 		Total instances in design with no power:     0
+*                Total instances in design with no activty:     0
+
+* 		Total Fillers and Decap:     0
+-----------------------------------------------------------------------------------------
