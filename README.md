@@ -11,4 +11,4 @@ For more info check "Idea.pdf"
 
 ## Result 
 From the Genus and Innovus reports fetched, the reversible ALU was more area and power efficient than the non reversible ALU.
-For more info check "Final Report.pdf"
+For more info check "Final_report.pdf"
